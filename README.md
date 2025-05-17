@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514393/3399/wa_alaikum_assalam.png?1643514393" width="30"/>
   <span style="color: #4CAF50;">Assalamu'alaikum, Saya Alghifari888</span> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
@@ -70,6 +69,8 @@
 [![Login System V2](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=vue-dark)](https://github.com/Alghifari888/FromLogin-RegistrationV2)
 
 [![Login System V1](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=vue-dark)](https://github.com/Alghifari888/FromLogin-Registration)
+
+[![Blog_Sederhana](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=vue-dark)](https://github.com/Alghifari888/Blog_Sederhana)
 
 </details>
 
