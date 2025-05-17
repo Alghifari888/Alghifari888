@@ -1,49 +1,50 @@
 <h1 align="center">
-  <span style="color: #4CAF50;">Assalamu'alaikum, Saya Alghifari888</span> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <span style="color: #4CAF50; text-shadow: 0 0 10px rgba(76, 175, 80, 0.5); font-weight: 800;">Assalamu'alaikum, Saya Alghifari888</span> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </h1>
 
-       "Aku tidak berilmu; yang berilmu hanyalah DIA. Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."
+<div align="center">
+  <blockquote style="font-style: italic; border-left: 3px solid #4CAF50; padding: 10px 20px; background: rgba(76, 175, 80, 0.1); border-radius: 0 8px 8px 0;">
+    ✨ "Aku bukan pemilik ilmu, hanya Dia yang Maha Mengetahui. Jika ada ilmu yang tampak dariku, itu hanyalah pantulan dari Cahaya-Nya." ✨
+  </blockquote>
+</div>
 
-
-<h3 align="center" style="color: #666;">
-  🛠️ Penuh Eksperimen  | 💡 Selalu Belaja | 🎯 Developer Tangerang
+<h3 align="center" style="color: #666; letter-spacing: 1.5px; margin-top: 20px;">
+  🧪 Eksperimen Tanpa Henti | 🎓 Pembelajar Sepanjang Masa | 🏢 Developer Tangerang
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alghifari888&label=Jumlah%20Kunjungan&color=0e75b6&style=flat" alt="Profile views"/>
-  <a href="https://github.com/Alghifari888?tab=followers">
-    <img src="https://img.shields.io/github/followers/Alghifari888?logo=github&style=flat-square" alt="Pengikut GitHub"/>
-  </a>
-</p>
+<div align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=Alghifari888&label=Kunjungan&color=0e75b6&style=for-the-badge" alt="Visitor count"/>
+  <img src="https://img.shields.io/github/followers/Alghifari888?logo=github&style=for-the-badge&color=4CAF50&label=Pengikut" alt="GitHub followers"/>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=vue-dark&hide_border=true&bg_color=00000000&title_color=4CAF50" alt="Bahasa Teratas"/>
 </p>
 
-<hr style="border: 1px solid #30363d; margin: 2em 0;"/>
+<hr style="border: 1px dashed #4CAF50; margin: 2em auto; width: 70%; opacity: 0.5;"/>
 
-### 🧑‍💻 **Tentang Saya**
+### 🌟 **Profil Saya**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding Animation"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+</div>
 
-<div align="center" style="max-width: 800px; margin: 0 auto;">
+<div style="background: rgba(76, 175, 80, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
   
-- 🌱 Saat ini sedang mendalami: **PHP Native** | **Git Mahir** | **Keamanan Data**
-- 🧠 Strategi problem solving: **Google-Fu** + **Stack Overflow** + **Trial & Error**
-- 📫 Hubungi saya di: <a href="mailto:xintiasoftwer93@gmail.com">xintiasoftwer93@gmail.com</a>
-- 🚀 Portfolio: [Sedang Dalam Pengembangan](https://github.com/Alghifari888)
-- ⚡ Fun fact: **Error bukan hambatan, tapi petunjuk—setiap barisnya mengajarkan sesuatu yang baru.**
+- 🌱 **Sedang mendalami:** PHP Native • Git Lanjutan • Keamanan Siber
+- 🧠 **Metode problem solving:** Google-Fu + Stack Overflow + Trial & Error
+- 📫 **Kontak:** <a href="mailto:xintiasoftwer93@gmail.com" style="color: #4CAF50; text-decoration: underline;">xintiasoftwer93@gmail.com</a>
+- 🚀 **Portfolio:** [Dalam Pengembangan](https://github.com/Alghifari888)
+- ⚡ **Fakta menarik:** "Error adalah guru terbaik - setiap pesan error menyimpan pelajaran berharga"
 
 </div>
 
-<hr style="border: 1px solid #30363d; margin: 2em 0;"/>
+<hr style="border: 1px dashed #4CAF50; margin: 2em auto; width: 70%; opacity: 0.5;"/>
 
-### 🛠️ **Teknologi yang Dikuasai**
+### 🛠️ **Teknologi yang Saya Kuasai**
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
 
 **Frontend**  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -60,27 +61,25 @@
 
 </div>
 
-<hr style="border: 1px solid #30363d; margin: 2em 0;"/>
+<hr style="border: 1px dashed #4CAF50; margin: 2em auto; width: 70%; opacity: 0.5;"/>
 
 <details>
-<summary><strong>▼ Lihat Semua Project Saya 📂</strong></summary>
+<summary><strong>📂 PROYEK TERBARU (Klik untuk Melihat)</strong></summary>
 <br>
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-[![ShadowLock V1](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=vue-dark)](https://github.com/Alghifari888/ShadowLock-KeamananFolder)
+[![ShadowLock V1](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=vue-dark&show_owner=true)](https://github.com/Alghifari888/ShadowLock-KeamananFolder)
 
-[![Login System V2](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=vue-dark)](https://github.com/Alghifari888/FromLogin-RegistrationV2)
+[![Login System V2](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=vue-dark&show_owner=true)](https://github.com/Alghifari888/FromLogin-RegistrationV2)
 
-[![Login System V1](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=vue-dark)](https://github.com/Alghifari888/FromLogin-Registration)
-
-[![Blog_Sederhana](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=vue-dark)](https://github.com/Alghifari888/Blog_Sederhana)
-
+</div>
 </details>
 
-<hr style="border: 1px solid #30363d; margin: 2em 0;"/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" alt="Kucing Ngoding"/>
+<div align="center" style="margin-top: 40px;">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="Coding Cat"/>
   <br/>
-  <em>"Di dunia logika dan error, saya belajar bahwa ketenangan sering kali lebih kuat dari solusi tercepat." - Alghifari888</em> 💡
-</p>
+  <p style="font-style: italic; color: #888;">
+    "Di balik setiap kode yang berantakan, tersembunyi pelajaran berharga untuk menjadi developer yang lebih baik" - Alghifari888
+  </p>
+</div>
