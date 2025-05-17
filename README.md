@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
+✨ Kutipan
+"Aku tidak berilmu; yang berilmu hanyalah DIA. Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."
+
+
 <h3 align="center" style="color: #666;">
   🛠️ Penuh Eksperimen  | 💡 Selalu Belaja | 🎯 Developer Tangerang
 </h3>
