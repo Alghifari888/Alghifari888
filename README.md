@@ -63,16 +63,44 @@
 <summary><strong>▼ Lihat Semua Project Saya 📂</strong></summary>
 <br>
 
+<div align="center">
 
-[![ShadowLock V1](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=vue-dark)](https://github.com/Alghifari888/ShadowLock-KeamananFolder)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Alghifari888/ShadowLock-KeamananFolder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=vue-dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Alghifari888/FromLogin-RegistrationV2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=vue-dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Alghifari888/FromLogin-Registration">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=vue-dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Alghifari888/Blog_Sederhana">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=vue-dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Alghifari888/Kalkulator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Kalkulator&theme=vue-dark" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-[![Login System V2](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=vue-dark)](https://github.com/Alghifari888/FromLogin-RegistrationV2)
-
-[![Login System V1](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=vue-dark)](https://github.com/Alghifari888/FromLogin-Registration)
-
-[![Blog_Sederhana](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=vue-dark)](https://github.com/Alghifari888/Blog_Sederhana)
-
-[![Kalkulator VB.NET](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Kalkulator&theme=vue-dark)](https://github.com/Alghifari888/Kalkulator)
+</div>
 
 </details>
 
