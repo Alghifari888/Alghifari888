@@ -1,13 +1,14 @@
 <h1 align="center">
-  <span style="color: #4CAF50;">Assalamu'alaikum, Saya Alghifari888</span> 
+  <span style="color: #4CAF50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Assalamu'alaikum, Saya Alghifari888</span> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
-       "Aku tidak berilmu; yang berilmu hanyalah DIA. Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."
+<p align="center" style="font-style: italic; color: #777; margin-top: -10px;">
+  "Aku tidak berilmu; yang berilmu hanyalah DIA. Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."
+</p>
 
-
-<h3 align="center" style="color: #666;">
-  🛠️ Penuh Eksperimen  | 💡 Selalu Belaja | 🎯 Developer Tangerang
+<h3 align="center" style="color: #666; font-weight: normal;">
+  🛠️ Penuh Eksperimen | 💡 Selalu Belajar | 🎯 Developer Tangerang
 </h3>
 
 <p align="center">
@@ -17,7 +18,7 @@
   </a>
 </p>
 
-<hr style="border: 1px solid #30363d; margin: 2em 0;"/>
+<hr style="border: 1px solid #e1e4e8; margin: 2em auto; width: 80%;"/>
 
 ### 🧑‍💻 **Tentang Saya**
 
@@ -25,26 +26,27 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding Animation"/>
 </p>
 
-<div align="center" style="max-width: 800px; margin: 0 auto;">
+<div align="center" style="max-width: 800px; margin: 0 auto; line-height: 1.6;">
   
-- 🌱 Saat ini sedang mendalami: **PHP Native** | **Git Mahir** | **Keamanan Data** | **JavaScript** | **VB.NET** |
-- 🧠 Strategi problem solving: **Google-Fu** + **Stack Overflow** + **Trial & Error**
-- 📫 Hubungi saya di: <a href="mailto:xintiasoftwer93@gmail.com">xintiasoftwer93@gmail.com</a>
-- 🚀 Portfolio: [Sedang Dalam Pengembangan](https://github.com/Alghifari888)
-- ⚡ Fun fact: **Error bukan hambatan, tapi petunjuk—setiap barisnya mengajarkan sesuatu yang baru.**
+- 🌱 **Sedang mendalami:** PHP Native | Git Mahir | Keamanan Data | JavaScript | VB.NET
+- 🧠 **Strategi problem solving:** Google-Fu + Stack Overflow + Trial & Error
+- 📫 **Kontak:** <a href="mailto:xintiasoftwer93@gmail.com" style="text-decoration: none;">xintiasoftwer93@gmail.com</a>
+- 🚀 **Portfolio:** [Sedang Dalam Pengembangan](https://github.com/Alghifari888)
+- ⚡ **Fun fact:** "Error bukan hambatan, tapi petunjuk—setiap barisnya mengajarkan sesuatu yang baru."
 
 </div>
 
-<hr style="border: 1px solid #30363d; margin: 2em 0;"/>
+<hr style="border: 1px solid #e1e4e8; margin: 2em auto; width: 80%;"/>
 
 ### 🛠️ **Teknologi yang Dikuasai**
 
-<div align="center">
+<div align="center" style="margin: 1.5em 0;">
 
 **Frontend**  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 **Backend**  
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -53,45 +55,46 @@
 
 **Tools**  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
-<hr style="border: 1px solid #30363d; margin: 2em 0;"/>
+<hr style="border: 1px solid #e1e4e8; margin: 2em auto; width: 80%;"/>
 
 <details>
-<summary><strong>▼ Lihat Semua Project Saya 📂</strong></summary>
+<summary><strong>📂 Portfolio Project Saya</strong></summary>
 <br>
 
 <div align="center">
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/Alghifari888/ShadowLock-KeamananFolder">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=vue-dark" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/Alghifari888/FromLogin-RegistrationV2">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=vue-dark" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/Alghifari888/FromLogin-Registration">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=vue-dark" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/Alghifari888/Blog_Sederhana">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=vue-dark" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/Alghifari888/Kalkulator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Kalkulator&theme=vue-dark" />
       </a>
@@ -104,10 +107,10 @@
 
 </details>
 
-<hr style="border: 1px solid #30363d; margin: 2em 0;"/>
+<hr style="border: 1px solid #e1e4e8; margin: 2em auto; width: 80%;"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" alt="Kucing Ngoding"/>
+<p align="center" style="font-style: italic; color: #666;">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80" alt="Koding"/>
   <br/>
-  <em>"Di dunia logika dan error, saya belajar bahwa ketenangan sering kali lebih kuat dari solusi tercepat." - Alghifari888</em> 💡
+  "Di dunia logika dan error, saya belajar bahwa ketenangan sering kali lebih kuat dari solusi tercepat." — Alghifari888
 </p>
