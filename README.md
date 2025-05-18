@@ -17,10 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=vue-dark&hide_border=true"Top Languages"/>
-</p>
-
 <hr style="border: 1px solid #30363d; margin: 2em 0;"/>
 
 ### 🧑‍💻 **Tentang Saya**
@@ -31,7 +27,7 @@
 
 <div align="center" style="max-width: 800px; margin: 0 auto;">
   
-- 🌱 Saat ini sedang mendalami: **PHP Native** | **Git Mahir** | **Keamanan Data**
+- 🌱 Saat ini sedang mendalami: **PHP Native** | **Git Mahir** | **Keamanan Data** | **JavaScript** | **VB.NET** |
 - 🧠 Strategi problem solving: **Google-Fu** + **Stack Overflow** + **Trial & Error**
 - 📫 Hubungi saya di: <a href="mailto:xintiasoftwer93@gmail.com">xintiasoftwer93@gmail.com</a>
 - 🚀 Portfolio: [Sedang Dalam Pengembangan](https://github.com/Alghifari888)
@@ -76,11 +72,7 @@
 
 [![Blog_Sederhana](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=vue-dark)](https://github.com/Alghifari888/Blog_Sederhana)
 
-[![Kalkulator VB.NET](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=vue-dark)](https://github.com/Alghifari888/Kalkulator)
-
-
-
-
+[![Kalkulator VB.NET](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Kalkulator VB.NET&theme=vue-dark)](https://github.com/Alghifari888/Kalkulator)
 
 </details>
 
