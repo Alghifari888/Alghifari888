@@ -76,6 +76,12 @@
 
 [![Blog_Sederhana](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=vue-dark)](https://github.com/Alghifari888/Blog_Sederhana)
 
+[![Kalkulator VB.NET](https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=vue-dark)](https://github.com/Alghifari888/Kalkulator)
+
+
+
+
+
 </details>
 
 <hr style="border: 1px solid #30363d; margin: 2em 0;"/>
