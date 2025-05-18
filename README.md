@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=vue-dark&hide_border=true"Top Languages"/>
 </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=vue-dark&hide_border=true
+
 <hr style="border: 1px solid #30363d; margin: 2em 0;"/>
 
 ### 🧑‍💻 **Tentang Saya**
