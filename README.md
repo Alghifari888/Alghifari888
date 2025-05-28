@@ -64,7 +64,7 @@
 
 <details>
 <summary><strong>📂 Portfolio Proyek Saya</strong></summary>
-<br> {/* Anda bisa coba hapus <br> ini untuk melihat apakah spasinya lebih baik tanpanya */}
+<br> <br>
 
 <div align="center">
   <table>
