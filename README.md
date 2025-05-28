@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="color: #4CAF50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Assalamu'alaikum, Saya Alghifari888</span> 
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl6eTBtam05dTkxYWVweGV3NXV2NHF2bXJ2a25wZXpwY2ozb3U3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="30"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 <p align="center" style="font-style: italic; color: #777; margin-top: -10px;">
@@ -23,7 +23,7 @@
 ### 🧑‍💻 **Tentang Saya**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl6eTBtam05dTkxYWVweGV3NXV2NHF2bXJ2a25wZXpwY2ozb3U3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 </p>
 
 <div align="center" style="max-width: 800px; margin: 0 auto; line-height: 1.6;">
