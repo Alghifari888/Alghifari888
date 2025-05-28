@@ -99,7 +99,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Kalkulator&theme=vue-dark" />
       </a>
     </td>
-    <td></td>
+
   </tr>
    <tr>
     <td align="center">
@@ -107,7 +107,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=POS-Point-of-Sale-&theme=vue-dark" />
       </a>
     </td>
-    <td></td>
+    
   </tr>
 </table>
 
