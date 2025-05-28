@@ -101,6 +101,14 @@
     </td>
     <td></td>
   </tr>
+   <tr>
+    <td align="center">
+      <a href="https://github.com/Alghifari888/POS-Point-of-Sale-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=POS-Point-of-Sale-&theme=vue-dark" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 </div>
