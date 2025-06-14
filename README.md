@@ -104,6 +104,14 @@
         </a>
       </td>
     </tr>
+
+  <td align="center" valign="top">
+        <a href="https://github.com/Alghifari888/website-manajemen-perpustakaan">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=website-manajemen-perpustakaan&theme=vue-dark" alt="website-manajemen-perpustakaan" />
+        </a>
+      </td>
+    </tr>
+
     </table>
 </div>
 
