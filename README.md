@@ -28,8 +28,8 @@
 
 <div align="center" style="max-width: 800px; margin: 0 auto; line-height: 1.6;">
   
-- 🌱 **Sedang mendalami:** PHP Native | Git Mahir | Keamanan Data | JavaScript | VB.NET | Laravel
-- 🧠 **Strategi problem solving:** Google-Fu + Stack Overflow + Trial & Error
+- 🌱 **Sedang mendalami:** PHP Native | Git Mahir | Keamanan Data | JavaScript | VB.NET | Laravel 12
+- 🧠 **Strategi problem solving:** Google + Stack Overflow + Trial & Error
 - 📫 **Kontak:** <a href="mailto:xintiasoftwer93@gmail.com" style="text-decoration: none;">xintiasoftwer93@gmail.com</a>
 - 🚀 **Portfolio:** [Sedang Dalam Pengembangan](https://github.com/Alghifari888)
 - ⚡ **Fun fact:** "Error bukan hambatan, tapi petunjuk—setiap barisnya mengajarkan sesuatu yang baru."
