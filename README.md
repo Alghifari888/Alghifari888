@@ -60,7 +60,60 @@
 
 </div>
 
+<hr style="border: 1px solid #e1e4e8; margin: 2em auto; width: 80%;"/>
 
+<details>
+<summary><strong>📂 Portfolio Proyek Saya</strong></summary>
+<br> <br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/Alghifari888/ShadowLock-KeamananFolder">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=vue-dark" alt="ShadowLock Keamanan Folder" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/Alghifari888/FromLogin-RegistrationV2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=vue-dark" alt="Form Login Registration V2" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/Alghifari888/FromLogin-Registration">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=vue-dark" alt="Form Login Registration" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/Alghifari888/Blog_Sederhana">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=vue-dark" alt="Blog Sederhana" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/Alghifari888/Kalkulator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Kalkulator&theme=vue-dark" alt="Kalkulator" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/Alghifari888/POS-Point-of-Sale-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=POS-Point-of-Sale-&theme=vue-dark" alt="POS Point of Sale" />
+        </a>
+      </td>
+    </tr>
+
+  <td align="center" valign="top">
+        <a href="https://github.com/Alghifari888/website-manajemen-perpustakaan">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=website-manajemen-perpustakaan&theme=vue-dark" alt="website-manajemen-perpustakaan" />
+        </a>
+      </td>
+    </tr>
+    </table>
+</div>
+</details>
+<hr style="border: 1px solid #e1e4e8; margin: 2em auto; width: 80%;"/>
 
 <p align="center" style="font-style: italic; color: #666;">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80" alt="Koding"/>
