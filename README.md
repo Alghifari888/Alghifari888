@@ -65,7 +65,6 @@
 <details>
 <summary><strong>📂 Portfolio Proyek Saya</strong></summary>
 <br> <br>
-
 <div align="center">
   <table>
     <tr>
@@ -111,10 +110,8 @@
         </a>
       </td>
     </tr>
-
     </table>
 </div>
-
 </details>
 <hr style="border: 1px solid #e1e4e8; margin: 2em auto; width: 80%;"/>
 
