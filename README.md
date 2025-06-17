@@ -16,7 +16,7 @@
 
 
 
-  <img src="profil.gif" width="450px"/>
+  <img src="profil2.gif" width="450px"/>
 
 </div>
 
