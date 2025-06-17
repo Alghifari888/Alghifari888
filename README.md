@@ -1,3 +1,4 @@
+<div style="background-color:#000; color:#fff; padding:30px; border-radius:10px;">
 <div align="center">
 
  
@@ -15,7 +16,7 @@
 
 
 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px"/>
+  <img src="profil.gif" width="450px"/>
 
 </div>
 
@@ -24,8 +25,7 @@
 <div align="center">
 
   <h2>🧭 <strong>Profil Saya</strong></h2>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px"/>
-
+ 
 </div>
 
 <div align="center" style="max-width: 800px; margin: 0 auto; line-height: 1.6;">
@@ -163,4 +163,5 @@
 ✨ **Terima kasih telah mengunjungi profil saya** ✨  
 🤝 **Mari berkolaborasi dan tumbuh bersama**
 
+</div>
 </div>
