@@ -120,10 +120,19 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="https://github.com/Alghifari888/FromLogin-Registration">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=radical" width="400">
         <br><strong>Sistem Autentikasi V1</strong>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Alghifari888/sistem_cuti_karyawan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=sistem_cuti_karyawan&theme=radical" width="400">
+        <br><strong>sistem_cuti_karyawan</strong>
       </a>
     </td>
   </tr>
