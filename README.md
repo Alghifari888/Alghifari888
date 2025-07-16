@@ -76,24 +76,24 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Alghifari888/Sistem-Absensi-Karyawan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Sistem-Absensi-Karyawan&theme=radical" width="400">
-        <br><strong>Sistem Absensi Karyawan</strong>
+      <a href="https://github.com/Alghifari888/website-manajemen-perpustakaan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=website-manajemen-perpustakaan&theme=radical" width="400">
+        <br><strong>Sistem Manajemen Perpustakaan</strong>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Alghifari888/ShadowLock-KeamananFolder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=radical" width="400">
-        <br><strong>Sistem Keamanan Folder</strong>
+      <a href="https://github.com/Alghifari888/Sistem-Absensi-Karyawan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Sistem-Absensi-Karyawan&theme=radical" width="400">
+        <br><strong>Sistem Absensi Karyawan</strong>
       </a>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <a href="https://github.com/Alghifari888/website-manajemen-perpustakaan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=website-manajemen-perpustakaan&theme=radical" width="400">
-        <br><strong>Sistem Manajemen Perpustakaan</strong>
+      <a href="https://github.com/Alghifari888/sistem_cuti_karyawan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=sistem_cuti_karyawan&theme=radical" width="400">
+        <br><strong>Sistem Cuti Karyawan</strong>
       </a>
     </td>
     <td align="center">
@@ -106,15 +106,30 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/Alghifari888/FromLogin-RegistrationV2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=radical" width="400">
-        <br><strong>Sistem Autentikasi V2</strong>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Alghifari888/Blog_Sederhana">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=radical" width="400">
         <br><strong>Aplikasi Blog Sederhana</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alghifari888/FtpClient">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FtpClient&theme=radical" width="400">
+        <br><strong>Ftp Client Sederhana VB.NET</strong>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Alghifari888/ShadowLock-KeamananFolder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=radical" width="400">
+        <br><strong>Sistem Keamanan Folder</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alghifari888/FromLogin-RegistrationV2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=radical" width="400">
+        <br><strong>Sistem Autentikasi V2</strong>
       </a>
     </td>
   </tr>
@@ -130,21 +145,6 @@
       <a href="https://github.com/Alghifari888/FromLogin-Registration">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=radical" width="400">
         <br><strong>Sistem Autentikasi V1</strong>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Alghifari888/sistem_cuti_karyawan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=sistem_cuti_karyawan&theme=radical" width="400">
-        <br><strong>Sistem Cuti Karyawan</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Alghifari888/FtpClient">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FtpClient&theme=radical" width="400">
-        <br><strong>Ftp Client Sederhana VB.NET</strong>
       </a>
     </td>
   </tr>
