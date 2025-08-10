@@ -8,7 +8,7 @@
   </h1>
 
   <p style="font-size: 18px; font-style: italic; color: #555; max-width: 600px; margin: 0 auto;">
-    "Aku tidak berilmu; yang berilmu hanyalah DIA. Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."
+    "Aku tidak berilmu yang berilmu hanyalah DIA. Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."
   </p>
 
   <br>
