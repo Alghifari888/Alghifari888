@@ -180,7 +180,7 @@
 ### **"Kode yang baik itu seperti puisi - indah, bermakna, dan mudah dimengerti"**
 
 ✨ **Terima kasih telah mengunjungi profil saya** ✨  
-🤝 **Mari berkolaborasi dan tumbuh bersama**
+🤝 **Mari berkolaborasi dan tumbuh bersama** 🤝
 
 </div>
 </div>
