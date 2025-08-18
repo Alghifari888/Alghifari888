@@ -88,13 +88,20 @@
       </a>
     </td>
   </tr>
+ <tr>
   <td align="center">
       <a href="https://github.com/Alghifari888/Manajemen-Klinik">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Manajemen-Klinik&theme=radical" width="400">
         <br><strong>Manajemen-Klinik</strong>
       </a>
     </td>
-  </tr>
+   <td align="center">
+      <a href="https://github.com/Alghifari888/FromLogin-Registration">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=radical" width="400">
+        <br><strong>Sistem Autentikasi V1</strong>
+      </a>
+    </td>
+    </tr>
 
   <tr>
     <td align="center">
@@ -148,12 +155,7 @@
         <br><strong>Aplikasi Kalkulator</strong>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Alghifari888/FromLogin-Registration">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=radical" width="400">
-        <br><strong>Sistem Autentikasi V1</strong>
-      </a>
-    </td>
+   
   </tr>
   
   
