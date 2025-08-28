@@ -9,13 +9,13 @@
   <br>
   
   <img src="profil2.gif" width="450px"/>
-  
+  <!---
 <p align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=4CAF50&center=true&vCenter=true&width=650&lines=Aku+tidak+berilmu%2C;yang+berilmu+hanyalah+DIA.;Jika+tampak+ilmu+dariku%2C;itu+hanyalah+pantulan+dari+Cahaya-Nya." alt="Typing SVG" />
   </a>
 </p>
-
+--->
 </div>
 
 ---
