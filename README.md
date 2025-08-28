@@ -30,6 +30,7 @@
 
  🌱 <strong>Sedang mendalami:</strong> PHP Native | Git Mahir | Keamanan Data | JavaScript | VB.NET | Laravel 12  
  🧠 <strong>Strategi problem solving:</strong> Dokumentasi Resmi + Google + Stack Overflow + Trial & Error + Debugging Manual
+ 
  📫 <strong>Kontak:</strong> <a href="mailto:xintiasoftwer93@gmail.com">xintiasoftwer93@gmail.com</a>  
  🚀 <strong>Portfolio:</strong> <a href="https://alghifari888.github.io/PORTOFOLIOv1/">My Portfolio</a>  
  ⚡ <strong>Fun fact:</strong> "Error bukan hambatan, tapi petunjuk—setiap barisnya mengajarkan sesuatu yang baru."
