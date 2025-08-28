@@ -155,14 +155,12 @@
         <br><strong>Aplikasi Kalkulator</strong>
       </a>
     </td>
-   
     <td align="center">
       <a href="https://github.com/Alghifari888/BarcodeGenerator-Flask">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=BarcodeGenerator-Flask&theme=radical" width="400">
-        <br><strong>Barcode Generator-Flask</strong>
+        <br><strong>BarcodeGenerator-Flask</strong>
       </a>
     </td>
-
   </tr>
   
   
