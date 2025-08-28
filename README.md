@@ -20,11 +20,6 @@
 
 ---
 
-<div align="center">
-
-  <h2>🧭 <strong>Profil Saya</strong></h2>
- 
-</div>
 
 <div align="center">
 
