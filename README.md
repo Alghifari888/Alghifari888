@@ -1,9 +1,11 @@
-<!-- PROFIL GITHUB README - ALGHIFARI888 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:008CBA&height=220&section=header&text=Hi%20👋%20Saya%20Alghifari888!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+</p>
 
+<!-- INTRO -->
 <div align="center">
-  
-# 👋 Assalamu'alaikum, Saya **Alghifari888**  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Full+Stack+Developer;Backend+Enthusiast;Problem+Solver;Always+Learning)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CAF50&size=25&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Backend+Enthusiast;Problem+Solver;Always+Learning)
 
 > *"Aku tidak berilmu, yang berilmu hanyalah DIA.  
 > Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."*
@@ -20,7 +22,7 @@
 - 🧠 **Strategi Problem Solving:** Dokumentasi Resmi + Google + Stack Overflow + Trial & Error + Debugging Manual  
 - 📫 **Kontak:** [xintiasoftwer93@gmail.com](mailto:xintiasoftwer93@gmail.com)  
 - 🚀 **Portfolio:** [Klik di sini](https://alghifari888.github.io/PORTOFOLIOv1/)  
-- ⚡ **Fun Fact:** *"Error bukan hambatan, tapi petunjuk—setiap barisnya mengajarkan sesuatu yang baru."*
+- ⚡ **Fun Fact:** *"Error bukan hambatan, tapi petunjuk — setiap barisnya mengajarkan sesuatu yang baru."*
 
 ---
 
@@ -158,7 +160,7 @@
 
 ---
 
-## 📈 **Statistik Pengembangan**
+## 📊 **Statistik Pengembangan**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alghifari888&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
@@ -171,13 +173,16 @@
 
 ---
 
-<div align="center">
-  
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150px">
+## 🔗 **Terhubung dengan Saya**
+<p align="center">
+  <a href="mailto:xintiasoftwer93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://alghifari888.github.io/PORTOFOLIOv1/"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://github.com/Alghifari888"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-### *"Kode yang baik itu seperti puisi — indah, bermakna, dan mudah dimengerti"*  
+---
 
-✨ **Terima kasih telah mengunjungi profil saya** ✨  
-🤝 **Mari berkolaborasi dan tumbuh bersama** 🤝  
-
-</div>
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CBA,100:4CAF50&height=120&section=footer"/>
+</p>
