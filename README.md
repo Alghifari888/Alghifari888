@@ -169,30 +169,7 @@
 </div>
 
 
-<div align="center">
-
-  <h2>📈 <strong>Statistik Pengembangan</strong></h2>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Alghifari888&show_icons=true&theme=radical" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=radical" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-
-  <h2>🔥 <strong>Streak Stats</strong></h2>
-  <img src="https://streak-stats.demolab.com?user=Alghifari888&theme=radical&hide_border=false" alt="GitHub Streak"/>
-
-  <h2>🏆 <strong>GitHub Trophy</strong></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Alghifari888&theme=radical&no-frame=true&margin-w=15" alt="Trophy"/>
-
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Alghifari888&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
-
-</div>
+<div align="center"> <h2>📈 <strong>Statistik Pengembangan</strong></h2> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Alghifari888&show_icons=true&theme=radical" alt="GitHub Stats"/> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=radical" alt="Top Languages"/> </td> </tr> </table> </div>
 
 
 
