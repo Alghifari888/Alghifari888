@@ -26,7 +26,7 @@
 ## 🧭 Profil Saya  
 
 🌱 **Sedang Mendalami:**  
-`PHP Native` | `Git Mahir` | `Keamanan Data` | `JavaScript` | `VB.NET` | `Laravel 12`
+`Ionic Gramework` | `Git` | `Keamanan Data` | `JavaScript` | `Flutter` | `Laravel 12` | `React` | `Flask` |
 
 🧠 **Strategi Problem Solving:**  
 Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging Manual
