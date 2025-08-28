@@ -1,79 +1,70 @@
-<div style="background-color:#000; color:#fff; padding:30px; border-radius:10px;">
-<div align="center">
+<!-- PROFIL GITHUB README - ALGHIFARI888 -->
 
- 
-  <h1 style="color: #4CAF50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    Assalamu'alaikum, Saya Alghifari888
+<div align="center">
   
-  </h1>
+# 👋 Assalamu'alaikum, Saya **Alghifari888**  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4CAF50&lines=Full+Stack+Developer;Backend+Enthusiast;Problem+Solver;Always+Learning)
 
-  <p style="font-size: 18px; font-style: italic; color: #555; max-width: 600px; margin: 0 auto;">
-    "Aku tidak berilmu yang berilmu hanyalah DIA. Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."
-  </p>
+> *"Aku tidak berilmu, yang berilmu hanyalah DIA.  
+> Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."*
 
-  <br>
-
-
-
-
-  <img src="profil2.gif" width="450px"/>
+<img src="profil2.gif" alt="Profil" width="250" style="border-radius:15px; margin-top:10px;"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 🧭 **Profil Saya**
 
-  <h2>🧭 <strong>Profil Saya</strong></h2>
- 
-</div>
-
-<div align="center" style="max-width: 800px; margin: 0 auto; line-height: 1.6;">
-
-- 🌱 <strong>Sedang mendalami:</strong> PHP Native | Git Mahir | Keamanan Data | JavaScript | VB.NET | Laravel 12  
-- 🧠 <strong>Strategi problem solving:</strong> Dokumentasi Resmi + Google + Stack Overflow + Trial & Error + Debugging Manual
-- 📫 <strong>Kontak:</strong> <a href="mailto:xintiasoftwer93@gmail.com">xintiasoftwer93@gmail.com</a>  
-- 🚀 <strong>Portfolio:</strong> <a href="https://alghifari888.github.io/PORTOFOLIOv1/">My Portfolio</a>  
-- ⚡ <strong>Fun fact:</strong> "Error bukan hambatan, tapi petunjuk—setiap barisnya mengajarkan sesuatu yang baru."
-
-</div>
-
+- 🌱 **Sedang mendalami:** PHP Native | Git Mahir | Keamanan Data | JavaScript | VB.NET | Laravel 12  
+- 🧠 **Strategi Problem Solving:** Dokumentasi Resmi + Google + Stack Overflow + Trial & Error + Debugging Manual  
+- 📫 **Kontak:** [xintiasoftwer93@gmail.com](mailto:xintiasoftwer93@gmail.com)  
+- 🚀 **Portfolio:** [Klik di sini](https://alghifari888.github.io/PORTOFOLIOv1/)  
+- ⚡ **Fun Fact:** *"Error bukan hambatan, tapi petunjuk—setiap barisnya mengajarkan sesuatu yang baru."*
 
 ---
 
-<div align="center">
+## 🛠️ **Keahlian Teknis**
 
-## 🛠️ <strong>Keahlian Teknis</strong>
+### 💻 **Bahasa Pemrograman**
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
 
-### <strong>Bahasa Pemrograman</strong>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 🚀 **Framework & Backend Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+</p>
 
-### <strong>Framework & Backend Development</strong>
-![Laravel 12](https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+### 🎨 **Frontend Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-### <strong>Frontend Development</strong>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🗄️ **Database & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-### <strong>Database & Tools</strong>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
-</div>
+## 🏆 **Project Saya**
 
-<div align="center">
+<p align="center">
+  <i>Beberapa project unggulan saya:</i>
+</p>
 
-## 🏆 <strong>Project Saya</strong>
-
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/Alghifari888/website-manajemen-perpustakaan">
@@ -88,20 +79,21 @@
       </a>
     </td>
   </tr>
- <tr>
-  <td align="center">
+
+  <tr>
+    <td align="center">
       <a href="https://github.com/Alghifari888/Manajemen-Klinik">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Manajemen-Klinik&theme=radical" width="400">
-        <br><strong>Manajemen-Klinik</strong>
+        <br><strong>Manajemen Klinik</strong>
       </a>
     </td>
-   <td align="center">
+    <td align="center">
       <a href="https://github.com/Alghifari888/FromLogin-Registration">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=radical" width="400">
         <br><strong>Sistem Autentikasi V1</strong>
       </a>
     </td>
-    </tr>
+  </tr>
 
   <tr>
     <td align="center">
@@ -162,27 +154,30 @@
       </a>
     </td>
   </tr>
-  
-  
 </table>
 
-</div>
+---
 
+## 📈 **Statistik Pengembangan**
 
-<div align="center"> <h2>📈 <strong>Statistik Pengembangan</strong></h2> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Alghifari888&show_icons=true&theme=radical" alt="GitHub Stats"/> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=radical" alt="Top Languages"/> </td> </tr> </table> </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alghifari888&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alghifari888&theme=radical" alt="Streak Stats" height="160"/>
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
 <div align="center">
-
+  
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150px">
 
-### **"Kode yang baik itu seperti puisi - indah, bermakna, dan mudah dimengerti"**
+### *"Kode yang baik itu seperti puisi — indah, bermakna, dan mudah dimengerti"*  
 
 ✨ **Terima kasih telah mengunjungi profil saya** ✨  
-🤝 **Mari berkolaborasi dan tumbuh bersama** 🤝
+🤝 **Mari berkolaborasi dan tumbuh bersama** 🤝  
 
-</div>
 </div>
