@@ -5,7 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:008CBA&height=220&section=header&text=Hi%20👋%20Saya%20Alghifari888!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
 
-
   <br>
   
   <img src="profil2.gif" width="450px"/>
@@ -19,7 +18,6 @@
 </div>
 
 ---
-
 
 <div align="center">
 
@@ -45,8 +43,6 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 *"Error bukan hambatan, tapi petunjuk — setiap barisnya mengajarkan sesuatu yang baru."*
 
 </div>
-
-
 
 ---
 
@@ -183,9 +179,6 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alghifari888&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Metrics](https://metrics.lecoq.io/Alghifari888?template=classic&isocalendar=1&languages=1&introduction=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
-
-
 ---
 
 <div align="center">
@@ -196,8 +189,6 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
 ✨ **Terima kasih telah mengunjungi profil saya** ✨  
 🤝 **Mari berkolaborasi dan tumbuh bersama** 🤝
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CBA,100:4CAF50&height=120&section=footer"/>
