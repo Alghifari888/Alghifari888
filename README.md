@@ -190,8 +190,8 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 ✨ **Terima kasih telah mengunjungi profil saya** ✨  
 🤝 **Mari berkolaborasi dan tumbuh bersama** 🤝
 
-<p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CBA,100:4CAF50&height=120&section=footer"/>
-</p>
+
 </div>
 </div>
