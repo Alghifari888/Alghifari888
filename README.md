@@ -193,7 +193,8 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 ✨ **Terima kasih telah mengunjungi profil saya** ✨  
 🤝 **Mari berkolaborasi dan tumbuh bersama** 🤝
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Snake
+animation](https://github.com/Alghifari888/Alghifari888/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
