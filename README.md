@@ -178,10 +178,10 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 </div>
 
 
-<div align="center"> <h2>📈 <strong>Statistik Pengembangan</strong></h2> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Alghifari888&show_icons=true&theme=radical" alt="GitHub Stats"/> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=radical" alt="Top Languages"/> </td> </tr> </table> 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alghifari888&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+<div align="center"> <h2>📈 <strong>Statistik Pengembangan</strong></h2> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Alghifari888&show_icons=true&theme=radical" alt="GitHub Stats"/> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=radical" alt="Top Languages"/> </td> </tr> </table> </div>
 
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alghifari888&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
