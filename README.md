@@ -1,9 +1,9 @@
 <div style="background-color:#000; color:#fff; padding:30px; border-radius:10px;">
 <div align="center">
 
-<p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:008CBA&height=220&section=header&text=Hi%20👋%20Saya%20Alghifari888!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
-</p>
+
 
   <br>
   
