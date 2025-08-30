@@ -193,7 +193,7 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 ✨ **Terima kasih telah mengunjungi profil saya** ✨  
 🤝 **Mari berkolaborasi dan tumbuh bersama** 🤝
 
-![Snakeanimation](https://github.com/Alghifari888/Alghifari888/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alghifari888&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
