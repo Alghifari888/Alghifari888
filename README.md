@@ -28,13 +28,12 @@
 
 🧠 **Strategi Problem Solving:**  
 Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging Manual
-  <!---
+  
 📫 **Kontak:**  
-<a href="mailto:xintiasoftwer93@gmail.com">
-  <img src="https://img.shields.io/badge/Email-xintiasoftwer93%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+<a href="mailto:alghifari888github@gmail.com">
+  <img src="https://img.shields.io/badge/Email-alghifari888github%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
 </a>
 
---->
 🚀 **Portfolio:**  
 <a href="https://alghifari888.github.io/PORTOFOLIOv1/" target="_blank">
   <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-green?style=for-the-badge&logo=github" alt="Portfolio" />
