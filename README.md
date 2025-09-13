@@ -31,8 +31,9 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
   
 📫 **Kontak:**  
 <a href="mailto:alghifari888github@gmail.com">
-  <img src="https://img.shields.io/badge/Email-alghifari888github%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-alghifari888github%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
 
 🚀 **Portfolio:**  
 <a href="https://alghifari888.github.io/PORTOFOLIOv1/" target="_blank">
