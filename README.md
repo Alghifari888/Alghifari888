@@ -77,7 +77,7 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
 <div align="center">
 
-## 🏆 <strong>Project Saya</strong>
+## 🏆 **Project Saya**
 
 <table>
   <tr>
@@ -94,20 +94,21 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
       </a>
     </td>
   </tr>
- <tr>
-  <td align="center">
+  
+  <tr>
+    <td align="center">
       <a href="https://github.com/Alghifari888/Manajemen-Klinik">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Manajemen-Klinik&theme=radical" width="400">
-        <br><strong>Manajemen-Klinik</strong>
+        <br><strong>Sistem Manajemen Klinik</strong>
       </a>
     </td>
-   <td align="center">
+    <td align="center">
       <a href="https://github.com/Alghifari888/FromLogin-Registration">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=radical" width="400">
         <br><strong>Sistem Autentikasi V1</strong>
       </a>
     </td>
-    </tr>
+  </tr>
 
   <tr>
     <td align="center">
@@ -134,7 +135,7 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
     <td align="center">
       <a href="https://github.com/Alghifari888/FtpClient">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FtpClient&theme=radical" width="400">
-        <br><strong>Ftp Client Sederhana VB.NET</strong>
+        <br><strong>FTP Client Sederhana VB.NET</strong>
       </a>
     </td>
   </tr>
@@ -164,14 +165,11 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
     <td align="center">
       <a href="https://github.com/Alghifari888/BarcodeGenerator-Flask">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=BarcodeGenerator-Flask&theme=radical" width="400">
-        <br><strong>BarcodeGenerator-Flask</strong>
+        <br><strong>Barcode Generator Flask</strong>
       </a>
     </td>
   </tr>
-  
-  
 </table>
-
 </div>
 
 
