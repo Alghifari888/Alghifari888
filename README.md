@@ -77,196 +77,89 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
 <div align="center">
 
-
-
 ## 🏆 **Project Saya**
 
-
-
 <table>
-
   <tr>
-
-    <td align="center">
-
-      <a href="https://github.com/Alghifari888/website-manajemen-perpustakaan">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=website-manajemen-perpustakaan&theme=radical" width="400">
-
-        <br><strong>Sistem Manajemen Perpustakaan</strong>
-
-      </a>
-
+    <td width="50%" align="center">
+      <h3>📚 <a href="https://github.com/Alghifari888/website-manajemen-perpustakaan">Sistem Manajemen Perpustakaan</a></h3>
+      <p>Sistem pengelolaan buku dan anggota perpustakaan berbasis web.</p>
+      <p><code>Blade</code> <code>Laravel</code></p>
     </td>
-
-    <td align="center">
-
-      <a href="https://github.com/Alghifari888/Sistem-Absensi-Karyawan">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Sistem-Absensi-Karyawan&theme=radical" width="400">
-
-        <br><strong>Sistem Absensi Karyawan</strong>
-
-      </a>
-
+    <td width="50%" align="center">
+      <h3>📅 <a href="https://github.com/Alghifari888/Sistem-Absensi-Karyawan">Sistem Absensi Karyawan</a></h3>
+      <p>Aplikasi pencatatan kehadiran karyawan realtime.</p>
+      <p><code>PHP</code> <code>MySQL</code></p>
     </td>
-
   </tr>
 
-  
-
   <tr>
-
     <td align="center">
-
-      <a href="https://github.com/Alghifari888/Manajemen-Klinik">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Manajemen-Klinik&theme=radical" width="400">
-
-        <br><strong>Sistem Manajemen Klinik</strong>
-
-      </a>
-
+      <h3>🏥 <a href="https://github.com/Alghifari888/Manajemen-Klinik">Sistem Manajemen Klinik</a></h3>
+      <p>Administrasi pasien dan rekam medis klinik.</p>
+      <p><code>PHP</code> <code>Web</code></p>
     </td>
-
     <td align="center">
-
-      <a href="https://github.com/Alghifari888/FromLogin-Registration">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=radical" width="400">
-
-        <br><strong>Sistem Autentikasi V1</strong>
-
-      </a>
-
+      <h3>🔐 <a href="https://github.com/Alghifari888/FromLogin-Registration">Sistem Autentikasi V1</a></h3>
+      <p>Formulir registrasi dan login dasar untuk pemula.</p>
+      <p><code>PHP Native</code></p>
     </td>
-
   </tr>
 
-
-
   <tr>
-
     <td align="center">
-
-      <a href="https://github.com/Alghifari888/sistem_cuti_karyawan">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=sistem_cuti_karyawan&theme=radical" width="400">
-
-        <br><strong>Sistem Cuti Karyawan</strong>
-
-      </a>
-
+      <h3>🏖️ <a href="https://github.com/Alghifari888/sistem_cuti_karyawan">Sistem Cuti Karyawan</a></h3>
+      <p>Manajemen pengajuan dan persetujuan cuti.</p>
+      <p><code>PHP</code></p>
     </td>
-
     <td align="center">
-
-      <a href="https://github.com/Alghifari888/POS-Point-of-Sale-">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=POS-Point-of-Sale-&theme=radical" width="400">
-
-        <br><strong>Sistem Point of Sale</strong>
-
-      </a>
-
+      <h3>🏪 <a href="https://github.com/Alghifari888/POS-Point-of-Sale-">Sistem Point of Sale (POS)</a></h3>
+      <p>Aplikasi kasir dan manajemen transaksi penjualan.</p>
+      <p><code>PHP</code> <code>Bootstrap 5</code></p>
     </td>
-
   </tr>
 
-
-
   <tr>
-
     <td align="center">
-
-      <a href="https://github.com/Alghifari888/Blog_Sederhana">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=radical" width="400">
-
-        <br><strong>Aplikasi Blog Sederhana</strong>
-
-      </a>
-
+      <h3>📝 <a href="https://github.com/Alghifari888/Blog_Sederhana">Aplikasi Blog Sederhana</a></h3>
+      <p>CMS Mini untuk memposting artikel dan catatan.</p>
+      <p><code>PHP</code></p>
     </td>
-
     <td align="center">
-
-      <a href="https://github.com/Alghifari888/FtpClient">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FtpClient&theme=radical" width="400">
-
-        <br><strong>FTP Client Sederhana VB.NET</strong>
-
-      </a>
-
+      <h3>📂 <a href="https://github.com/Alghifari888/FtpClient">FTP Client Sederhana</a></h3>
+      <p>Aplikasi transfer file berbasis desktop.</p>
+      <p><code>VB.NET</code></p>
     </td>
-
   </tr>
 
-
-
   <tr>
-
     <td align="center">
-
-      <a href="https://github.com/Alghifari888/ShadowLock-KeamananFolder">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=radical" width="400">
-
-        <br><strong>Sistem Keamanan Folder</strong>
-
-      </a>
-
+      <h3>🔒 <a href="https://github.com/Alghifari888/ShadowLock-KeamananFolder">Sistem Keamanan Folder</a></h3>
+      <p>Tools untuk mengunci dan mengamankan folder pribadi.</p>
+      <p><code>System Security</code></p>
     </td>
-
     <td align="center">
-
-      <a href="https://github.com/Alghifari888/FromLogin-RegistrationV2">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=radical" width="400">
-
-        <br><strong>Sistem Autentikasi V2</strong>
-
-      </a>
-
+      <h3>🛡️ <a href="https://github.com/Alghifari888/FromLogin-RegistrationV2">Sistem Autentikasi V2</a></h3>
+      <p>Versi upgrade dengan fitur keamanan role level.</p>
+      <p><code>PHP</code></p>
     </td>
-
   </tr>
 
-
-
   <tr>
-
     <td align="center">
-
-      <a href="https://github.com/Alghifari888/Kalkulator">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Kalkulator&theme=radical" width="400">
-
-        <br><strong>Aplikasi Kalkulator</strong>
-
-      </a>
-
+      <h3>🧮 <a href="https://github.com/Alghifari888/Kalkulator">Aplikasi Kalkulator</a></h3>
+      <p>Program perhitungan matematika dasar.</p>
+      <p><code>Visual Basic .NET</code></p>
     </td>
-
     <td align="center">
-
-      <a href="https://github.com/Alghifari888/BarcodeGenerator-Flask">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=BarcodeGenerator-Flask&theme=radical" width="400">
-
-        <br><strong>Barcode Generator Flask</strong>
-
-      </a>
-
+      <h3>🏷️ <a href="https://github.com/Alghifari888/BarcodeGenerator-Flask">Barcode Generator</a></h3>
+      <p>Membuat barcode otomatis dengan Python.</p>
+      <p><code>Python</code> <code>Flask</code></p>
     </td>
-
   </tr>
-
 </table>
 
 </div>
-
 <div align="center"> <h2>📈 <strong>Statistik Pengembangan</strong></h2> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=radical" alt="Top Languages"/> </td> </tr> </table> </div>
 
 
