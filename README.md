@@ -77,99 +77,194 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
 <div align="center">
 
+
+
 ## 🏆 **Project Saya**
 
+
+
 <table>
+
   <tr>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/website-manajemen-perpustakaan">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=website-manajemen-perpustakaan&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=website-manajemen-perpustakaan&theme=radical" width="400">
+
         <br><strong>Sistem Manajemen Perpustakaan</strong>
+
       </a>
+
     </td>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/Sistem-Absensi-Karyawan">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=Sistem-Absensi-Karyawan&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Sistem-Absensi-Karyawan&theme=radical" width="400">
+
         <br><strong>Sistem Absensi Karyawan</strong>
+
       </a>
+
     </td>
+
   </tr>
+
   
+
   <tr>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/Manajemen-Klinik">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=Manajemen-Klinik&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Manajemen-Klinik&theme=radical" width="400">
+
         <br><strong>Sistem Manajemen Klinik</strong>
+
       </a>
+
     </td>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/FromLogin-Registration">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=FromLogin-Registration&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-Registration&theme=radical" width="400">
+
         <br><strong>Sistem Autentikasi V1</strong>
+
       </a>
+
     </td>
+
   </tr>
 
+
+
   <tr>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/sistem_cuti_karyawan">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=sistem_cuti_karyawan&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=sistem_cuti_karyawan&theme=radical" width="400">
+
         <br><strong>Sistem Cuti Karyawan</strong>
+
       </a>
+
     </td>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/POS-Point-of-Sale-">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=POS-Point-of-Sale-&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=POS-Point-of-Sale-&theme=radical" width="400">
+
         <br><strong>Sistem Point of Sale</strong>
+
       </a>
+
     </td>
+
   </tr>
 
+
+
   <tr>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/Blog_Sederhana">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=Blog_Sederhana&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Blog_Sederhana&theme=radical" width="400">
+
         <br><strong>Aplikasi Blog Sederhana</strong>
+
       </a>
+
     </td>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/FtpClient">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=FtpClient&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FtpClient&theme=radical" width="400">
+
         <br><strong>FTP Client Sederhana VB.NET</strong>
+
       </a>
+
     </td>
+
   </tr>
 
+
+
   <tr>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/ShadowLock-KeamananFolder">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=ShadowLock-KeamananFolder&theme=radical" width="400">
+
         <br><strong>Sistem Keamanan Folder</strong>
+
       </a>
+
     </td>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/FromLogin-RegistrationV2">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=FromLogin-RegistrationV2&theme=radical" width="400">
+
         <br><strong>Sistem Autentikasi V2</strong>
+
       </a>
+
     </td>
+
   </tr>
 
+
+
   <tr>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/Kalkulator">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=Kalkulator&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=Kalkulator&theme=radical" width="400">
+
         <br><strong>Aplikasi Kalkulator</strong>
+
       </a>
+
     </td>
+
     <td align="center">
+
       <a href="https://github.com/Alghifari888/BarcodeGenerator-Flask">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Alghifari888&repo=BarcodeGenerator-Flask&theme=radical&v=2" width="400">
+
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alghifari888&repo=BarcodeGenerator-Flask&theme=radical" width="400">
+
         <br><strong>Barcode Generator Flask</strong>
+
       </a>
+
     </td>
+
   </tr>
+
 </table>
+
 </div>
 
 <div align="center"> <h2>📈 <strong>Statistik Pengembangan</strong></h2> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=radical" alt="Top Languages"/> </td> </tr> </table> </div>
