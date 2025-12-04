@@ -89,7 +89,7 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
     <td width="50%" align="center">
       <h3>📅 <a href="https://github.com/Alghifari888/Sistem-Absensi-Karyawan">Sistem Absensi Karyawan</a></h3>
       <p>Aplikasi pencatatan kehadiran karyawan realtime.</p>
-      <p><code>PHP</code> <code>MySQL</code></p>
+      <p><code>Blade</code> <code>Laravel</code></p>
     </td>
   </tr>
 
@@ -97,7 +97,7 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
     <td align="center">
       <h3>🏥 <a href="https://github.com/Alghifari888/Manajemen-Klinik">Sistem Manajemen Klinik</a></h3>
       <p>Administrasi pasien dan rekam medis klinik.</p>
-      <p><code>PHP</code> <code>Web</code></p>
+      <p><code>Blade</code> <code>Laravel</code></p>
     </td>
     <td align="center">
       <h3>🔐 <a href="https://github.com/Alghifari888/FromLogin-Registration">Sistem Autentikasi V1</a></h3>
