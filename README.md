@@ -100,9 +100,9 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
       <p><code>Blade</code> <code>Laravel</code></p>
     </td>
     <td align="center">
-      <h3>🔐 <a href="https://github.com/Alghifari888/FromLogin-Registration">Sistem Autentikasi V1</a></h3>
-      <p>Formulir registrasi dan login dasar untuk pemula.</p>
-      <p><code>PHP Native</code></p>
+      <h3>💰 <a href="https://github.com/Alghifari888/Finance-Tracker">Finance Tracker</a></h3>
+      <p>Aplikasi pelacak keuangan pribadi (Finance-Tracker)</p>
+      <p><code>Dart</code> <code>Flutter</code></p>
     </td>
   </tr>
 
@@ -161,9 +161,9 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
   <tr>
     <td align="center">
-      <h3>💰 <a href="https://github.com/Alghifari888/Finance-Tracker">Finance Tracker</a></h3>
-      <p>Aplikasi pelacak keuangan pribadi (Finance-Tracker)</p>
-      <p><code>Dart</code> <code>Flutter</code></p>
+      <h3>🔐 <a href="https://github.com/Alghifari888/FromLogin-Registration">Sistem Autentikasi V1</a></h3>
+      <p>Formulir registrasi dan login dasar untuk pemula.</p>
+      <p><code>PHP Native</code></p>
     </td>
     <td></td>
   </tr>
