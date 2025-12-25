@@ -8,7 +8,7 @@
   <br>
   
 <img src="profil2.gif" width="450px"
-     style="border: 2px solid #4CAF50; border-radius: 14px; padding: 6px; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" />
+     style="border: 2px solid #4CAF50; border-radius: 14px; padding: 6px; box-shadow: 0 4px 14px rgba(0, 255, 51, 0.25);" />
 
   
 <p align="center">
