@@ -7,7 +7,9 @@
 
   <br>
   
-  <img src="profil2.gif" width="450px"/>
+<img src="profil2.gif" width="450px"
+     style="border: 2px solid #4CAF50; border-radius: 14px; padding: 6px; box-shadow: 0 4px 14px rgba(0,0,0,0.25);" />
+
   
 <p align="center">
   <a href="#">
@@ -265,21 +267,45 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alghifari888&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## 📊 GitHub Activity & Insights
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alghifari888&theme=react-dark" />
+</p>
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alghifari888&theme=react" />
+</p>
+
+---
+
+
+
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150px">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140px"/>
 
-### **"Kode yang baik itu seperti puisi - indah, bermakna, dan mudah dimengerti"**
+### “Kode yang bersih tidak tercipta secara kebetulan, tetapi ditulis dengan penuh perhatian.”
 
-✨ **Terima kasih telah mengunjungi profil saya** ✨  
-🤝 **Mari berkolaborasi dan tumbuh bersama** 🤝
+✨ Terima kasih telah mengunjungi profil GitHub saya ✨  
 
+<br/>
 
+<a href="https://github.com/Alghifari888">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CBA,100:4CAF50&height=120&section=footer"/>
+</a>
 
 </div>
+
 </div>
