@@ -7,9 +7,9 @@
 
   <br>
   
-<img src="profil2.gif" width="450px"
-     
+<img src="profil2.gif" width="450px"/>
 
+  
 <p align="center">
   <a href="#">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=0&color=4CAF50&center=true&vCenter=true&width=800&lines=Welcome+to+the+GitHub+profile+of+Alghifari888" alt="Typing SVG" />
@@ -281,6 +281,9 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 </p>
 
 ---
+
+
+
 
 <div align="center">
 
