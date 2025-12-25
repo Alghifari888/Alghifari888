@@ -157,9 +157,22 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
       <p><code>Python</code> <code>Flask</code></p>
     </td>
   </tr>
+
+
+  <tr>
+    <td align="center">
+      <h3>💰 <a href="https://github.com/Alghifari888/Finance-Tracker">Finance Tracker</a></h3>
+      <p>Aplikasi pelacak keuangan pribadi (Finance-Tracker)</p>
+      <p><code>Dart</code> <code>Flutter</code></p>
+    </td>
+    <td></td>
+  </tr>
+  
+
 </table>
 
 </div>
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alghifari888&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
