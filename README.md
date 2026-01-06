@@ -81,8 +81,6 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
 ## 🏆 Project Showcase
 
-<p align="center">
-</p>
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -113,16 +111,16 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
   <tr>
     <td valign="top">
-      <h3 align="center">🏥 Sistem Manajemen Klinik</h3>
+      <h3 align="center">⚡ VOIDRIP v2.0</h3>
       <p align="center">
-        Pengelolaan data pasien, rekam medis, dan administrasi klinik.
+        High Speed Terminal Downloader berbasis CLI yang dirancang untuk kecepatan,
+        kestabilan, dan estetika.
       </p>
       <p align="center">
-        <a href="https://github.com/Alghifari888/Manajemen-Klinik">🔗 Lihat Repository</a>
+        <a href="https://github.com/Alghifari888/VOIDRIP">🔗 Lihat Repository</a>
       </p>
       <p align="center">
-        <code>Laravel</code> <code>Blade</code>
-      </p>
+        <code>Python</code>
     </td>
     <td valign="top">
       <h3 align="center">💰 Finance Tracker</h3>
@@ -140,6 +138,18 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
   <tr>
     <td valign="top">
+      <h3 align="center">🏥 Sistem Manajemen Klinik</h3>
+      <p align="center">
+        Pengelolaan data pasien, rekam medis, dan administrasi klinik.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Alghifari888/Manajemen-Klinik">🔗 Lihat Repository</a>
+      </p>
+      <p align="center">
+        <code>Laravel</code> <code>Blade</code>
+      </p>
+    </td>
+    <td valign="top">
       <h3 align="center">🏖️ Sistem Cuti Karyawan</h3>
       <p align="center">
         Manajemen pengajuan, persetujuan, dan histori cuti karyawan.
@@ -151,6 +161,9 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>PHP</code>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td valign="top">
       <h3 align="center">🏪 Point of Sale (POS)</h3>
       <p align="center">
@@ -163,9 +176,6 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>PHP</code> <code>Bootstrap 5</code>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td valign="top">
       <h3 align="center">📝 Blog Sederhana</h3>
       <p align="center">
@@ -176,6 +186,21 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
       </p>
       <p align="center">
         <code>PHP</code>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top">
+      <h3 align="center">🏷️ Barcode Generator</h3>
+      <p align="center">
+        Generator barcode otomatis berbasis web.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Alghifari888/BarcodeGenerator-Flask">🔗 Lihat Repository</a>
+      </p>
+      <p align="center">
+        <code>Python</code> <code>Flask</code>
       </p>
     </td>
     <td valign="top">
@@ -206,21 +231,6 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
       </p>
     </td>
     <td valign="top">
-      <h3 align="center">🛡️ Sistem Autentikasi V2</h3>
-      <p align="center">
-        Sistem login & registrasi dengan role-based access.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Alghifari888/FromLogin-RegistrationV2">🔗 Lihat Repository</a>
-      </p>
-      <p align="center">
-        <code>PHP</code>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top">
       <h3 align="center">🧮 Aplikasi Kalkulator</h3>
       <p align="center">
         Program perhitungan matematika dasar.
@@ -232,21 +242,21 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>VB.NET</code>
       </p>
     </td>
-    <td valign="top">
-      <h3 align="center">🏷️ Barcode Generator</h3>
-      <p align="center">
-        Generator barcode otomatis berbasis web.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Alghifari888/BarcodeGenerator-Flask">🔗 Lihat Repository</a>
-      </p>
-      <p align="center">
-        <code>Python</code> <code>Flask</code>
-      </p>
-    </td>
   </tr>
 
   <tr>
+    <td valign="top">
+      <h3 align="center">🛡️ Sistem Autentikasi V2</h3>
+      <p align="center">
+        Sistem login & registrasi dengan role-based access.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Alghifari888/FromLogin-RegistrationV2">🔗 Lihat Repository</a>
+      </p>
+      <p align="center">
+        <code>PHP</code>
+      </p>
+    </td>
     <td valign="top">
       <h3 align="center">🔐 Sistem Autentikasi V1</h3>
       <p align="center">
@@ -259,12 +269,10 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>PHP Native</code>
       </p>
     </td>
-    <td></td>
   </tr>
 </table>
 
 </div>
-
 
 
 ---
