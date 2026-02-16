@@ -24,25 +24,20 @@
 
 ## 🧭 Profil Saya  
 
-🌱 **Sedang Mendalami:**  
-`Ionic Framework` | `Git` | `Keamanan Data` | `JavaScript` | `Flutter` | `Laravel 12` | `React` | `Flask`
+🌱 **Sedang Mendalami:** `Ionic Framework` | `Git` | `Keamanan Data` | `JavaScript` | `Flutter` | `Laravel 12` | `React` | `Flask`
 
-🧠 **Strategi Problem Solving:**  
-Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging Manual
+🧠 **Strategi Problem Solving:** Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging Manual
   
-📫 **Kontak:**  
-<a href="mailto:alghifari888github@gmail.com">
+📫 **Kontak:** <a href="mailto:alghifari888github@gmail.com">
   <img src="https://img.shields.io/badge/Email-alghifari888github%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 
-🚀 **Portfolio:**  
-<a href="https://alghifari888.github.io/PORTOFOLIOv1/" target="_blank">
+🚀 **Portfolio:** <a href="https://alghifari888.github.io/PORTOFOLIOv1/" target="_blank">
   <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-green?style=for-the-badge&logo=github" alt="Portfolio" />
 </a>
 
-⚡ **Fun Fact:**  
-*"Error bukan hambatan, tapi petunjuk — setiap barisnya mengajarkan sesuatu yang baru."*
+⚡ **Fun Fact:** *"Error bukan hambatan, tapi petunjuk — setiap barisnya mengajarkan sesuatu yang baru."*
 
 </div>
 
@@ -111,16 +106,16 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
   <tr>
     <td valign="top">
-      <h3 align="center">⚡ VOIDRIP v2.0</h3>
+      <h3 align="center">🚀 NexferraFTP</h3>
       <p align="center">
-        High Speed Terminal Downloader berbasis CLI yang dirancang untuk kecepatan,
-        kestabilan, dan estetika.
+        Aplikasi FTP/SFTP Client mobile yang cepat, aman, dan efisien.
       </p>
       <p align="center">
-        <a href="https://github.com/Alghifari888/VOIDRIP">🔗 Lihat Repository</a>
+        <a href="https://github.com/Alghifari888/NexferraFTP">🔗 Lihat Repository</a>
       </p>
       <p align="center">
-        <code>Python</code>
+        <code>Flutter</code> <code>Dart</code>
+      </p>
     </td>
     <td valign="top">
       <h3 align="center">💰 Finance Tracker</h3>
@@ -138,6 +133,17 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
 
   <tr>
     <td valign="top">
+      <h3 align="center">⚡ VOIDRIP v2.0</h3>
+      <p align="center">
+        High Speed Terminal Downloader berbasis CLI yang dirancang untuk kecepatan.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Alghifari888/VOIDRIP">🔗 Lihat Repository</a>
+      </p>
+      <p align="center">
+        <code>Python</code>
+    </td>
+    <td valign="top">
       <h3 align="center">🏥 Sistem Manajemen Klinik</h3>
       <p align="center">
         Pengelolaan data pasien, rekam medis, dan administrasi klinik.
@@ -149,6 +155,9 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>Laravel</code> <code>Blade</code>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td valign="top">
       <h3 align="center">🏖️ Sistem Cuti Karyawan</h3>
       <p align="center">
@@ -161,9 +170,6 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>PHP</code>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td valign="top">
       <h3 align="center">🏪 Point of Sale (POS)</h3>
       <p align="center">
@@ -176,6 +182,9 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>PHP</code> <code>Bootstrap 5</code>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td valign="top">
       <h3 align="center">📝 Blog Sederhana</h3>
       <p align="center">
@@ -188,9 +197,6 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>PHP</code>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td valign="top">
       <h3 align="center">🏷️ Barcode Generator</h3>
       <p align="center">
@@ -203,6 +209,9 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>Python</code> <code>Flask</code>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td valign="top">
       <h3 align="center">📂 FTP Client</h3>
       <p align="center">
@@ -215,9 +224,6 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>VB.NET</code>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td valign="top">
       <h3 align="center">🔒 Sistem Keamanan Folder</h3>
       <p align="center">
@@ -230,6 +236,9 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>System Security</code>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td valign="top">
       <h3 align="center">🧮 Aplikasi Kalkulator</h3>
       <p align="center">
@@ -242,9 +251,6 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>VB.NET</code>
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td valign="top">
       <h3 align="center">🛡️ Sistem Autentikasi V2</h3>
       <p align="center">
@@ -257,6 +263,9 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>PHP</code>
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td valign="top">
       <h3 align="center">🔐 Sistem Autentikasi V1</h3>
       <p align="center">
@@ -269,6 +278,7 @@ Dokumentasi Resmi • Google • Stack Overflow • Trial & Error • Debugging 
         <code>PHP Native</code>
       </p>
     </td>
+    <td></td>
   </tr>
 </table>
 
