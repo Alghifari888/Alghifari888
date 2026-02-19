@@ -8,15 +8,9 @@
 
 <img src="profil2.gif" width="420px" style="border-radius: 20px;"/>
 
-<br/><br/>
-
-
-
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Alghifari888&color=4CAF50&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Alghifari888)
-[![GitHub Followers](https://img.shields.io/github/followers/Alghifari888?style=for-the-badge&color=008CBA&labelColor=000000&label=FOLLOWERS)](https://github.com/Alghifari888?tab=followers)
-
 </div>
 
 ---
@@ -59,45 +53,23 @@
 
 ## 🛠️ Keahlian Teknis
 
-### 💻 Bahasa Pemrograman
-
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-</p>
-
-### 🚀 Framework & Library
-
-<p>
   <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Storage
-
-<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hive-F9C74F?style=for-the-badge&logo=flutter&logoColor=black"/>
   <img src="https://img.shields.io/badge/Isar-4B8BFF?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
-### 🌐 Frontend & Tools
-
-<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -154,10 +126,10 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🤖 SILOKA AI <img src="https://img.shields.io/badge/NEW-FF4136?style=flat-square" /></h3>
+      <h3>🤖 SILOKA AI </h3>
       <p>Sistem AI yang mengklasifikasikan dan merespons keluhan mahasiswa di lingkungan kampus secara otomatis.</p>
       <a href="https://github.com/Alghifari888/siloka_ai_project">
-        <img src="https://img.shields.io/badge/🔗_Lihat_Repository-008CBA?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/🔗_Lihat_Repository-4CAF50?style=for-the-badge"/>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -322,10 +294,6 @@
 
 ## 📊 GitHub Activity & Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alghifari888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=00BCD4&text_color=ffffff" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alghifari888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=ffffff" height="165"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alghifari888&theme=tokyonight&hide_border=true&background=0D1117&stroke=4CAF50&ring=4CAF50&fire=FF5722&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4CAF50&sideLabels=00BCD4&dates=888888" />
@@ -355,14 +323,8 @@
 ### 💬 *"Kode yang bersih tidak tercipta secara kebetulan,*
 ### *tetapi ditulis dengan penuh perhatian."*
 
-<br/>
-
-✨ **Terima kasih telah mengunjungi profil GitHub saya!** ✨
-
-<br/>
-
 <a href="https://github.com/Alghifari888">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CBA,50:4CAF50,100:00BCD4&height=130&section=footer&text=Happy+Coding!+🚀&fontSize=20&fontColor=ffffff&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CBA,50:4CAF50,100:00BCD4&height=130&section=footer&text=✨%20Terima%20kasih%20telah%20mengunjungi%20profil%20GitHub%20saya!%20✨&fontSize=20&fontColor=ffffff&fontAlignY=65"/>
 </a>
 
 </div>
