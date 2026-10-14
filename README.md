@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Alghifari888&color=4CAF50&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Alghifari888)
+
 </div>
 
 ---
