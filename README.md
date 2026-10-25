@@ -301,8 +301,6 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alghifari888&theme=react-dark&bg_color=0D1117&color=4CAF50&line=00BCD4&point=ffffff&hide_border=true" />
-
 </div>
 
 ---
